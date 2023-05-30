@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Objetivos del ejercicio}{4}{0}{1}
+\beamer@sectionintoc {2}{Aspectos metodológicos}{5}{0}{2}
+\beamer@sectionintoc {3}{Ubicación del tema dentro del programa de la Asignatura}{6}{0}{3}
+\beamer@sectionintoc {4}{Antecedentes y Motivación}{8}{0}{4}
+\beamer@sectionintoc {5}{Bibliografía}{14}{0}{5}
+\beamer@sectionintoc {6}{Asimilación y nivel de partida}{15}{0}{6}
+\beamer@sectionintoc {7}{Ejercicios}{16}{0}{7}
+\beamer@subsectionintoc {7}{1}{Aplicación del método de Gauss}{16}{0}{7}
+\beamer@subsectionintoc {7}{2}{Sistemas con parámetros}{18}{0}{7}
+\beamer@sectionintoc {8}{Conclusiones}{24}{0}{8}
